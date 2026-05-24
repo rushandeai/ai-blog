@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "AI Learning Notes",
   description: "我的 AI 学习笔记",
-  base: '/ai-blog/',
+  base: '/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
