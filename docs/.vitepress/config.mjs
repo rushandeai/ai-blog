@@ -14,8 +14,7 @@ export default defineConfig({
         items: [
           { text: 'RAG 原理', link: '/rag' },
           { text: 'Transformer', link: '/transformer' },
-          { text: '面试题', link: '/interview-qa' },
-          { text: '流式输出', link: '/streaming' },
+{ text: '流式输出', link: '/streaming' },
         ]
       }
     ],
